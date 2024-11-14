@@ -9,7 +9,7 @@
 3. memory wall:
 	- instructions/second -> 2x every 2 years
 	- memory capacity -> 2x very 2 years
-	- memory latency -> 1.1x very 2 years![[Pasted image 20241114153050.png]]
+	- memory latency -> 1.1x very 2 years![[../imgs/Pasted image 20241114153050.png]]
 
 4. trade-off between speed、cost以及power![[Pasted image 20241114153314.png]]
  5. power consumption：
