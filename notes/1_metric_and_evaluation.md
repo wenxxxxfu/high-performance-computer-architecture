@@ -7,8 +7,8 @@
 	- N = latency(y) / latency(x)
 	- N = throughput(x) / throughput(y)
 3. speedup
-	- >1， improved performance：short execution time or higher throughput
-	- <1，worse performance
+	-  > 1， improved performance：short execution time or higher throughput
+	-  < 1，worse performance
 	- performance ~ throughput or ~ 1/throughput
 4. how to measure performance?
 	- performance $\approx$  1 / execution time 
