@@ -9,9 +9,9 @@
 3. memory wall:
 	- instructions/second -> 2x every 2 years
 	- memory capacity -> 2x very 2 years
-	- memory latency -> 1.1x very 2 years![[../imgs/Pasted image 20241114153050.png]]
+	- memory latency -> 1.1x very 2 years
 
-4. trade-off between speed、cost以及power![[Pasted image 20241114153314.png]]
+4. trade-off between speed、cost以及power
  5. power consumption：
 	 - dynamic：consumed by activity in a circuit
 	 - stastic: consumed when power on but idle
@@ -19,9 +19,14 @@
 	- capacitance ~ chip area
 	- V: power supply voltage
 	- f：clock frequency
-	- α：activity factor![[Pasted image 20241114154746.png]]
+	- α：activity factor
 	- smaller transistor allow us  to reduce supply voltage, and improve frequency, which result in lower power consumption
-7. static power : when voltage reduce, leakage increment![[Pasted image 20241114155711.png]] 
+7. static power : when voltage reduce, leakage increment
+8. a single chip's cost  is going to linearly proportional to its size
+9. yield = working chips/chips on wafer
+10. the benefit from   Moore's Law:
+	1. smaller chips
+	2. same area，but faster(high performance usually do)
  
 
 
